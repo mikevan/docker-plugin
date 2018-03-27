@@ -5,7 +5,7 @@
 * Move to docker-java 3.x (3.0.6 + fixes for SDC/Triton)
 * Re-instate setting API version as some versions of docker break compatibility
 * Allow setting of registry credentials (build, push, pull)
-* Documentation clarifications
+* Documentation clarifications 
 
 ## 0.16.0
 
